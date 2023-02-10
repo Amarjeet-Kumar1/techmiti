@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1d0f9bd.css",
+    "main.js": "/static/js/main.da6f4c62.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/hurdle.jpg": "/static/media/hurdle.eb3e7f3f58f3d3ce13b2.jpg",
+    "static/media/bridge.webp": "/static/media/bridge.cb7e41c05d09576ae8f4.webp",
+    "static/media/soccer.png": "/static/media/soccer.ddeb7a98f0ff23a5dd91.png",
+    "static/media/war.webp": "/static/media/war.6bde0a65496efce0c709.webp",
+    "static/media/arm.webp": "/static/media/arm.24f55345d40c0a037c8c.webp",
+    "index.html": "/index.html",
+    "main.c1d0f9bd.css.map": "/static/css/main.c1d0f9bd.css.map",
+    "main.da6f4c62.js.map": "/static/js/main.da6f4c62.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1d0f9bd.css",
+    "static/js/main.da6f4c62.js"
+  ]
+}
